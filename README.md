@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Davi Queiroz Lima, tenho 20 anos, sou natural de São Paulo/SP e atualmente resido em Caxias/MA. Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário de Ciências e Tecnologias do Maranhão (Unifacema), onde venho aprofundando meus conhecimentos em desenvolvimento de software, especialmente no ecossistema .NET
+Me chamo Davi Queiroz Lima, tenho 20 anos, sou natural de São Paulo/SP e atualmente resido em Caxias/MA.
+Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário de Ciências e Tecnologias do Maranhão (Unifacema), onde venho aprofundando meus conhecimentos em desenvolvimento de software, com ênfase no ecossistema .NET.
 Sempre busco aprender algo novo, colaborar com outros desenvolvedores e construir soluções escaláveis, eficientes e bem estruturadas. Acredito no poder da comunidade, da curiosidade e da evolução contínua.
 
 <p align="left">
