@@ -25,6 +25,12 @@ Sempre busco aprender algo novo, colaborar com outros desenvolvedores e construi
 
 ---
 
+### 📌 Conecte-se comigo!
+ <a href="https://www.linkedin.com/in/davi-queiroz-lima-78ba38326/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
