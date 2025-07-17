@@ -130,7 +130,6 @@ Sempre busco aprender algo novo, colaborar com outros desenvolvedores e construi
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
-
 <img 
     align="left" 
     alt="Visual Studio" 
