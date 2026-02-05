@@ -1,6 +1,6 @@
 # 👨‍💻 Davi Queiroz Lima
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Davi Queiroz Lima, tenho 20 anos, sou natural de São Paulo/SP e atualmente resido em Caxias/MA.
 Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário de Ciências e Tecnologias do Maranhão (Unifacema), onde venho aprofundando meus conhecimentos em desenvolvimento de software, com ênfase no ecossistema .NET.
@@ -44,11 +44,56 @@ Sempre busco aprender algo novo, colaborar com outros desenvolvedores e construi
 
 <img 
     align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt=".Net"
     title=".Net" 
     width="30px" 
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="NestJs" 
+    title="NestJs"
+    width="30px" 
+    style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"  
+/>
+
+<img 
+    align="left" 
+    alt="Entity Framework Core" 
+    title="Entity Framework Core"
+    width="30px" 
+    style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg"  
+/>
+
+<img 
+    align="left" 
+    alt="Prisma" 
+    title="Prisma"
+    width="30px" 
+    style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"  
 />
 
 <img 
@@ -62,6 +107,24 @@ Sempre busco aprender algo novo, colaborar com outros desenvolvedores e construi
 
 <img 
     align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"  
+/>
+
+<img 
+    align="left" 
     alt="Azure" 
     title="Azure"
     width="30px" 
@@ -69,14 +132,6 @@ Sempre busco aprender algo novo, colaborar com outros desenvolvedores e construi
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
-/>
 
 <img 
     align="left" 
@@ -120,14 +175,6 @@ Sempre busco aprender algo novo, colaborar com outros desenvolvedores e construi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <img 
